@@ -1,10 +1,11 @@
-**Olá, Eu sou Cleiton Costa.
+<h2> * Olá, Eu sou Cleiton Costa. * </h2>
+<h3>Sou iniciante no mundo da programação, estou aprendendo html, css, javascript e react.</h3>
 
 <a href="https://github.com/cleiton2506/cleitoncosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleiton2506&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleiton2506&layout=compact&langs_count=7&theme=dark"/><br>
-</div>
-<div style="display: inline_block"><br>
+  <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleiton2506&layout=compact&langs_count=7&theme=dark"><br>
+ 
+  <div style="display: inline_block">
   <img align="center" alt="cleitoncosta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="cleitoncosta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cleitoncosta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
