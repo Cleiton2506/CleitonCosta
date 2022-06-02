@@ -1,6 +1,7 @@
 <h2> * Olá, Eu sou Cleiton Costa. * </h2>
-<h3>Sou iniciante no mundo da programação, estou aprendendo html, css, javascript e react.</h3>
+<h3>Sou iniciante no mundo da programação, estou aprendendo html, css, javascript.</h3>
 <h3>Futuro Desenvolvedor Front and</h3>
+<h3>BootCamp Santander Fullstack Developer em andamento</h3>
 
 <a href="https://github.com/cleiton2506/cleitoncosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleiton2506&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
