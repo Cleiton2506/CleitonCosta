@@ -6,6 +6,14 @@
 <h2>Futuro Desenvolvedor Front end</h2>
 <h3> <a href="https://web.dio.me/users/cleiton-2506?tab=achievements" alt="Dio.me">BootCamp Santander Fullstack Developer em andamento Pela plataforma Dio.me</h3></a>
 
+##
+<div align="center">
+  <a href="https://github.com/cleitoncosta">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitoncosta&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+##
+
 <h2>Languages and Tools:</h2>
  
   <div style="display: inline_block">
