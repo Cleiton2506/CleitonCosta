@@ -1,8 +1,7 @@
 
 <h1 align="center"> * Hello! I'm Cleiton Costa * </h1>
 <h2 align="center">Sou iniciante no mundo da programação, estou estudando HTML5, CSS3, JAVA SCRIPT.</h2>
-<h3>Atualmente trabalho na empresa Telefonica (Vivo) como Consultor de atendimento. Tenho conhecimento com alguns sistemas, como:
- <br> Sales Force, Amdocs (Next), Smartweb, Siebel, Fusion, WiseTool, entre outros sistemas que ultilizo no meu dia a dia.</h3>
+<h3>Atualmente trabalho na empresa Telefonica (Vivo)
 <h2>Futuro Desenvolvedor Front end</h2>
 <h3> <a href="https://web.dio.me/users/cleiton-2506?tab=achievements" alt="Dio.me">BootCamp Santander Fullstack Developer em andamento Pela plataforma Dio.me</h3></a>
 
