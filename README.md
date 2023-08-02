@@ -1,8 +1,8 @@
 
 <h1 align="center"> * Hello! I'm Cleiton Costa * </h1>
-<h2 align="center">Sou iniciante no mundo da programação, em aprendizagem HTML5, CSS3, JAVA SCRIPT.</h2>
+<h2 align="center">Sou iniciante no mundo da programação, estudando JAVA SCRIPT, REACT NATIVE, NODE.JS.</h2>
 <h2>Futuro Desenvolvedor Full stack</h2>
-<h3> <a href="https://web.dio.me/users/cleiton-2506?tab=achievements" alt="Dio.me">BootCamp Santander Fullstack Developer em andamento Pela plataforma Dio.me</h3></a>
+<h3> <a href="https://www.devmedia.com.br/perfil/josicleiton-alberto-da-costa" alt="DevMedia">Estudando Desenvolvimento Mobile pela DevMedia
 
 ##
 <div align="center">
