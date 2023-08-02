@@ -1,7 +1,7 @@
 
 <h1 align="center"> * Hello! I'm Cleiton Costa * </h1>
-<h2 align="center">Sou iniciante no mundo da programação, estudando JAVA SCRIPT, REACT NATIVE, NODE.JS.</h2>
-<h2>Futuro Desenvolvedor Full Stack</h2>
+<h2 align="center">Sou iniciante no mundo da programação, estudando <b>JAVA SCRIPT, REACT NATIVE, NODE.JS.</b></h2>
+<h2>Futuro Desenvolvedor Mobile</h2>
 <h3> <a href="https://www.devmedia.com.br/perfil/josicleiton-alberto-da-costa" alt="Devmedia.com.br">Estudando Desenvolvimento Mobile pela DevMedia
 
 ##
