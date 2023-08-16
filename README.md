@@ -6,6 +6,8 @@ JAVA SCRIPT, REACT NATIVE </h2>
 
 ##
 
+<div align="center">
+ 
 <h2>Languages and Tools:</h2>
  
  
