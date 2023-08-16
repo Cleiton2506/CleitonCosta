@@ -14,6 +14,9 @@
  
  
   <div style="display: inline_block">
+  <img align="center" alt="cleitoncosta-HTML" height="30" width="40"
+src="https://icons8.com.br/icon/hsPbhkOH4FMe/node-js">
+    
   <img align="center" alt="cleitoncosta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="cleitoncosta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cleitoncosta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
