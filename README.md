@@ -5,12 +5,6 @@ JAVA SCRIPT, REACT NATIVE </h2>
 <h3> <a href="https://www.devmedia.com.br/perfil/josicleiton-alberto-da-costa" alt="Devmedia.com.br"> Desenvolvimento Mobile (Android , iOS) pela Dev Media
 
 ##
-<div align="center">
-  <a href="https://github.com/cleitoncosta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitoncosta&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-##
 
 <h2>Languages and Tools:</h2>
  
