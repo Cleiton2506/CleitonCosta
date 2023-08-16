@@ -1,7 +1,7 @@
 
 <h1 align="center"> * Hello! I'm Cleiton Costa * </h1>
 <h2 align="center">Sou iniciante no mundo da programação, estudando:
-JAVA SCRIPT, REACT NATIVE </h2>
+<b>JAVA SCRIPT, REACT NATIVE, Node.js, MyQSL e QSL</b></h2>
 <h3> <a href="https://www.devmedia.com.br/perfil/josicleiton-alberto-da-costa" alt="Devmedia.com.br"> Desenvolvimento Mobile (Android , iOS) pela Dev Media
 
 ##
@@ -13,7 +13,7 @@ JAVA SCRIPT, REACT NATIVE </h2>
 
 ##
  
-<h2>Languages and Tools:</h2>
+<h2>Language and Tecnologi:</h2>
  
  
   <div style="display: inline_block">
