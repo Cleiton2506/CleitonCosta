@@ -20,7 +20,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/node
  
   ##
   <h3>Connect with me:</h3> 
- <a href="https://instagram.com/fidel_ravi" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://instagram.com/jcleitoncosta" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/CleitonCosta#7325" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "mailto:cleiton-2506@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
 </div>
