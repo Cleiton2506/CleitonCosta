@@ -10,7 +10,6 @@
   <img align="center" alt="cleitoncosta-Nodejs" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="cleitoncosta-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="cleitoncosta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg">
   <img align="center" alt="Cleitoncosta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="cleitoncosta-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  </div>
