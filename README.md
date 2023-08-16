@@ -3,21 +3,13 @@
 <h2 align="center">Sou iniciante no mundo da programação, estudando:
 <b>JAVA SCRIPT, REACT NATIVE, Node.js, API, MySQL e SQL</b></h2>
 <h3> <a href="https://www.devmedia.com.br/perfil/josicleiton-alberto-da-costa" alt="Devmedia.com.br"> Desenvolvimento Mobile (Android , iOS) pela Dev Media
-
 ##
-
-<div align="center">
-  
-##
- 
-<h2>Language and Tecnologi:</h2>
- 
+<h2> Language and Tecnologi: </h2>
  
   <div style="display: inline_block">
   <img align="center" alt="cleitoncosta-HTML" height="30" width="40"
-src="https://icons8.com.br/icon/hsPbhkOH4FMe/node-js">
-    
-  <img align="center" alt="cleitoncosta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="cleitoncosta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="cleitoncosta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cleitoncosta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="cleitoncosta-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
