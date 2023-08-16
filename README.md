@@ -3,7 +3,7 @@
 <h2 align="center">Sou iniciante no mundo da programação, estudando:
 JavaScript, React Native, Node.js, API, MySQL e SQL</h2>
 <h3> 
- <a href="https://www.devmedia.com.br/perfil/josicleiton-alberto-da-costa" alt="Devmedia.com.br"></a> Desenvolvimento Mobile (Android , iOS) pela Dev Media
+ <a href="https://www.devmedia.com.br/perfil/josicleiton-alberto-da-costa" alt="Devmedia.com.br"> Click here > Desenvolvimento Mobile (Android , iOS) pela Dev Media </a>
 
  
 <h2> Language and Tecnologi: </h2>
