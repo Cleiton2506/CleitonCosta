@@ -3,10 +3,10 @@
 <h2 align="center">Sou iniciante no mundo da programação, estudando:
 <b>JavaScript, React Native, Node.js, API, MySQL e SQL</b></h2>
 <h3> <a href="https://www.devmedia.com.br/perfil/josicleiton-alberto-da-costa" alt="Devmedia.com.br"> Desenvolvimento Mobile (Android , iOS) pela Dev Media
-##
+
  
 <h2> Language and Tecnologi: </h2>
-##
+
  
   <div style="display: inline_block">
   <img align="center" alt="cleitoncosta-Nodejs" height="30" width="40"
