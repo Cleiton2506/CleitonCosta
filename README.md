@@ -5,7 +5,7 @@ JavaScript, React Native, Node.js, API, MySQL e SQL </h3>
 
  <a href="https://www.devmedia.com.br/perfil/josicleiton-alberto-da-costa" alt="Devmedia.com.br"> Click here > Desenvolvimento Mobile (Android , iOS) pela Dev Media </a>
  
- <a href="https://www.devmedia.com.br/certificado/tecnologia/react-native/josicleiton-alberto-da-costa" Click here > Certification </a>
+ <a href="https://www.devmedia.com.br/certificado/tecnologia/react-native/josicleiton-alberto-da-costa"> Click here > Certification </a>
 
  <div style="display: inline_block">
  
