@@ -12,6 +12,7 @@ JavaScript, React Native, Node.js, API, MySQL e SQL </h3>
   <h2> languages ​​and tools </h2>
  
 <div style="display: inline_block"> 
+  <img align="center" alt="cleitoncosta-Html" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" /> 
   <img align="center" alt="cleitoncosta-Nodejs" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
     <img align="center" alt="cleitoncosta-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
