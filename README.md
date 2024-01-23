@@ -1,6 +1,6 @@
 <h1 align="center"> * Satisfação! Sou Cleiton Alberto * </h1>
 <h3 align="center">Sou iniciante no mundo da programação, atualmente estudo Desenvolvimento Web front-end e Mobile com Foco maior em criação de App.
-\n\nLinguagens e ferramentas usadas:
+{"\n"}Linguagens e ferramentas usadas:
 Lógica, Algoritimos, Html5, Css, JavaScript, React Native, Node.js, API, MySQL e SQL </h3>
 <h3> 
 
